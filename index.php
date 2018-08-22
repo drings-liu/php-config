@@ -10,5 +10,6 @@ echo " 连接数据库地址是：".$db_config['db_user_name'];
 
 echo " 连接数据库地址是：".$db_config['db_user_pswd'];
 
+echo "hello configmap";
 
 var_dump($db_config);
